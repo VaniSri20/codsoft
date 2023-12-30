@@ -19,7 +19,7 @@ Get instant results with error messages for invalid input.
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
 
 # License:
-This project is licensed under the calculator. See the LICENSE.md file for details.
+This project is licensed under the CodSoft. See the LICENSE.md file for details.
 
 Replace the placeholders like python programming , calc.py, and calculator with the actual information specific to your project. If you don't have a specific license in mind, you can choose one that suits your needs or use an open-source license like the MIT License.
 
